@@ -1,2 +1,3 @@
 #IGNORE ALL .txt files 
 *.txt
+.Rproj.user
